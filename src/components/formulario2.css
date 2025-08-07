@@ -1,0 +1,61 @@
+form {
+    background-color: rgb(134, 136, 136);
+    margin: 50px;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 5px;
+    border: 1px solid black;
+}
+
+input {
+    border: 0;
+    border-radius: 3px;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    width: 200px;
+}
+
+p{
+    font-size: 10px;
+}
+
+.nome {
+    display: flex;
+    gap: 10px;
+}
+
+.email{
+    display: flex;
+    gap: 20px;
+}
+
+.emailinput{
+    display: flex;
+    flex-direction: column;
+}
+
+.telefone{
+    display: flex;
+    gap: 10px;
+    padding-left: 30px;
+}
+
+.telefoneinput{
+    display: flex;
+    flex-direction: column;
+}
+
+.endereco{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding-left: 30px;
+}
+
+.nputenderecocima{
+    display: flex;
+}
