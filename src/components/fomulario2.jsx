@@ -32,6 +32,7 @@ function Formulario2() {
   return (
     <div>
       <form onSubmit={cadastrarclientes}>
+      <h1>Cadastro de usúarios</h1>
         <div className="nome">
           <h3> Nome completo</h3>
           <input
