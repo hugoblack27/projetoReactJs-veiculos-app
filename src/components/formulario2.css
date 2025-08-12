@@ -59,3 +59,13 @@ p{
 .nputenderecocima{
     display: flex;
 }
+
+.bonitinho{
+    text-decoration: none;
+    border: 1px solid black;
+    color: black;
+    background-color: red;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 10px;
+}
