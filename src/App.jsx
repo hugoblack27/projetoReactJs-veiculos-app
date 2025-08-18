@@ -7,6 +7,11 @@ import Listadesejo from './components/Listadedesejos'
 import PaginaBootsrap from './components/pagina-bootstrap'
 import Tarefas from './components/tarefas'
 import Timer from './components/timer'
+import EstiloExterno from './components/ExemploestiloExterno'
+import ExemploStyle from './components/formularios'
+import NavBar from './components/navbar'
+import AtividadecssExterno from './components/atividadecssExterno'
+
 
 function App() {
   return (
@@ -17,8 +22,12 @@ function App() {
 <Tarefas />
 <Timer />
 <Counter/>
-<Listadesejo /> */}
+<Listadesejo />
 <PaginaBootsrap />
+<ExemploStyle/> */}
+{/* <EstiloExterno/>  */}
+{/* <NavBar/> */}
+<AtividadecssExterno />
     </div>
   )
 }
